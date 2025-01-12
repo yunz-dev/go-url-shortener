@@ -1,4 +1,12 @@
 # Go URL Shortener 🚧
+
+<!--toc:start-->
+- [Go URL Shortener 🚧](#go-url-shortener-🚧)
+  - [Features (Planned)](#features-planned)
+  - [Tech Stack](#tech-stack)
+  - [Getting Started](#getting-started)
+<!--toc:end-->
+
 A lightweight URL shortener written in Go. This project is currently **under construction**, so stay tuned for updates as new features and improvements are rolled out.
 
 ## Features (Planned)
